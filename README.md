@@ -1,2 +1,3 @@
 # Moviz
-Site de critique de film 
+
+Développement d'un site de critique de film en PHP OBJET et MVC
